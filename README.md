@@ -172,6 +172,8 @@ take screenshot of the output
 
 ![Screenshot (16)](https://github.com/SubhashriRavichandran10/Ex-04-webTech_imagemap/assets/145743413/9956699b-75ba-4c81-be73-bdbb6de610f7)
 
+![Screenshot (14)](https://github.com/SubhashriRavichandran10/Ex-04-webTech_imagemap/assets/145743413/29665089-726d-469a-baa1-b2a7dabdbc38)
+
 
 ![Screenshot (13)](https://github.com/SubhashriRavichandran10/Ex-04-webTech_imagemap/assets/145743413/94014513-a8d0-415c-965c-554315d5d576)
 
